@@ -1,0 +1,60 @@
+.firstClass {
+    color: red;
+    font-size: 120%;
+    font-family: Arial, sans-serif;
+    width: 100%;
+    
+    
+}
+
+section.firstClass {
+    border-style: solid;
+    border-color: blue;
+    border-left: 8% solid blue;
+    border-right: 5% solid blue;
+    border-top: 30px solid red;
+    border-bottom: 0px solid red;
+}
+
+body {
+    width: 100;
+    height: 400px;
+}
+
+#firstId {
+    color: blue;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+
+#secondId {
+    color: rgb(233, 28, 124);
+    font-size: 12px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+    
+
+
+header {
+    font-family: 'Helvetica', sans-serif;
+    color: green;
+    padding: 10px 0;
+    font-size: 50px;
+    text-align: center;
+    
+    
+}
+
+footer {
+    font-family: 'Helvetica', sans-serif;
+    color: green;
+    font-size: 16px;
+    text-align: center;
+
+    
+    
+}
+
+li :hover {
+    color: orange;
+}
